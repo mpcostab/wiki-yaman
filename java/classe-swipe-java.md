@@ -3,8 +3,12 @@
 
 # Swipes Java
 
-public class AppiumRobot extends BaseTest {
-public static void swipeVertical(double startPercentage, double finalPercentage, int durantion) {
+
+
+
+
+	public class AppiumRobot extends BaseTest {
+	public static void swipeVertical(double startPercentage, double finalPercentage, int durantion) {
 
         try {
             TouchAction action = new TouchAction(driver);
