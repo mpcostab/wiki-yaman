@@ -1,7 +1,6 @@
 <!-- TITLE: Classe Swipe Java -->
 <!-- SUBTITLE: Como Realizar um Swipe mobile no java -->
 
-#
 public class AppiumRobot extends BaseTest {
 public static void swipeVertical(double startPercentage, double finalPercentage, int durantion) {
 
